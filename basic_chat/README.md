@@ -1,4 +1,4 @@
-# Bootcamp Software 3.0
+#Bootcamp Software 3.0
 
 # Basic chatbot using Ollama and OpenAI
 
@@ -19,6 +19,13 @@ Example: ollama run llama3
 ```bash
 pip install ollama
 ```
+
+## Usage
+
+```bash
+python ollama_chat.py
+```
+
 ## OPENAI
 
 ## Prerequisites 
@@ -32,3 +39,9 @@ Documentation: https://platform.openai.com/docs/quickstart
 ```bash
 pip install -r langchain openai python-dotenv
 ```
+## Usage
+
+```bash
+python openai_chat.py
+```
+
